@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = florent.horta@playplay.com
+	name = Florent Horta
